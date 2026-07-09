@@ -1,0 +1,15 @@
+Alice Johnson
+
+Bachelor of Computer Applications
+
+Skills
+
+Java
+Spring Boot
+MySQL
+Git
+Docker
+
+Experience
+
+Developed Java backend applications.

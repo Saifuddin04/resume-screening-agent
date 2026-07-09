@@ -1,0 +1,17 @@
+John Smith
+
+Bachelor of Engineering in Computer Science
+
+Skills
+
+Python
+Flask
+Docker
+Git
+SQL
+REST API
+Pandas
+
+Experience
+
+Built REST APIs using Flask and SQL.
