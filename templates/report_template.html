@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
 
-    <title>Resume Screening Report</title>
+    <title>AI Resume Screening Report</title>
 
     <link rel="stylesheet" href="../assets/style.css">
 
@@ -15,28 +15,61 @@
 
 <div class="container">
 
-    <header>
+<header>
 
-        <h1>Resume Screening Report</h1>
+<h1>🤖 AI Resume Screening Report</h1>
 
-        <p class="generated">
-            Generated on:
-            {{GENERATED_DATE}}
-        </p>
+<p class="generated">
 
-    </header>
+Generated on
+<strong>{{GENERATED_DATE}}</strong>
 
-    <section class="summary">
+</p>
 
-        {{SUMMARY}}
+</header>
 
-    </section>
+<section>
 
-    <section class="candidate-section">
+<h2 class="section-title">
+📊 Screening Summary
+</h2>
 
-        {{CANDIDATES}}
+<div class="summary">
 
-    </section>
+{{SUMMARY}}
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="section-title">
+🏆 Ranked Candidates
+</h2>
+
+{{CANDIDATES}}
+
+</section>
+
+<footer>
+
+<hr>
+
+<p>
+
+Generated automatically by the
+<strong>AI Resume Screening Agent</strong>
+
+</p>
+
+<p>
+
+Rooman Technologies AI Agent Challenge
+
+</p>
+
+</footer>
 
 </div>
 

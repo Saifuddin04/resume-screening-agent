@@ -6,7 +6,7 @@
 
 body{
 
-    background:#edf2f7;
+    background:#f3f5f9;
 
     font-family:Segoe UI,Arial,sans-serif;
 
@@ -32,19 +32,19 @@ header{
 
     color:white;
 
-    border-radius:14px;
+    padding:35px;
 
-    padding:30px;
+    border-radius:15px;
 
-    margin-bottom:30px;
+    margin-bottom:35px;
 
-    box-shadow:0 5px 15px rgba(0,0,0,.15);
+    box-shadow:0 8px 18px rgba(0,0,0,.15);
 
 }
 
 header h1{
 
-    font-size:34px;
+    font-size:36px;
 
     margin-bottom:10px;
 
@@ -53,6 +53,16 @@ header h1{
 .generated{
 
     opacity:.9;
+
+}
+
+.section-title{
+
+    margin-bottom:20px;
+
+    margin-top:25px;
+
+    color:#2563eb;
 
 }
 
@@ -72,9 +82,9 @@ header h1{
 
     background:white;
 
-    border-radius:14px;
-
     padding:25px;
+
+    border-radius:14px;
 
     text-align:center;
 
@@ -88,31 +98,61 @@ header h1{
 
     font-size:34px;
 
+    margin-bottom:8px;
+
+}
+
+.card p{
+
+    color:#666;
+
 }
 
 .candidate{
 
     background:white;
 
-    border-radius:14px;
+    border-radius:15px;
 
     padding:25px;
 
     margin-bottom:30px;
 
-    box-shadow:0 5px 15px rgba(0,0,0,.12);
+    box-shadow:0 5px 18px rgba(0,0,0,.12);
 
 }
 
 .candidate h2{
 
-    margin-bottom:15px;
+    color:#2563eb;
+
+    margin-bottom:12px;
+
+}
+
+ul{
+
+    margin:15px 0 20px 25px;
+
+}
+
+li{
+
+    margin-bottom:8px;
 
 }
 
 .good{
 
+    display:inline-block;
+
+    background:#d1fae5;
+
     color:#0f9d58;
+
+    padding:8px 14px;
+
+    border-radius:20px;
 
     font-weight:bold;
 
@@ -120,7 +160,15 @@ header h1{
 
 .medium{
 
-    color:#ff9800;
+    display:inline-block;
+
+    background:#fff4d4;
+
+    color:#e58e00;
+
+    padding:8px 14px;
+
+    border-radius:20px;
 
     font-weight:bold;
 
@@ -128,7 +176,15 @@ header h1{
 
 .bad{
 
+    display:inline-block;
+
+    background:#fde2e2;
+
     color:#d32f2f;
+
+    padding:8px 14px;
+
+    border-radius:20px;
 
     font-weight:bold;
 
@@ -136,10 +192,36 @@ header h1{
 
 pre{
 
+    background:#f8f9fb;
+
+    border-left:5px solid #2563eb;
+
+    padding:18px;
+
+    border-radius:8px;
+
     white-space:pre-wrap;
 
-    font-size:15px;
-
     line-height:1.6;
+
+    margin-top:10px;
+
+}
+
+footer{
+
+    text-align:center;
+
+    color:#777;
+
+    margin-top:50px;
+
+    margin-bottom:20px;
+
+}
+
+hr{
+
+    margin-bottom:20px;
 
 }

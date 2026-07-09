@@ -7,7 +7,7 @@ Weakness:
 - The candidate is missing key skills required for the job, including artificial intelligence, llm, and rlhf, which are crucial for the position.
 
 Recommendation:
-Not Recommended, due to the lack of required skills, resulting in a low final score of 33.42.",1
+Not Recommended, due to the lack of essential skills required for the job, resulting in a low final score of 33.42.",1
 Data_Science_and_Analytics_1.pdf,16.38,25.0,100,['data analysis'],"['artificial intelligence', 'llm', 'rlhf']",1,4,29.05,Not Recommended,"Strengths:
 - The candidate has a matched skill in data analysis.
 - The candidate has a perfect education score of 100.
@@ -16,7 +16,7 @@ Weakness:
 - The candidate is missing key skills required for the job, including artificial intelligence, llm, and rlhf, which are crucial for the position.
 
 Recommendation:
-Not Recommended, due to the lack of essential skills required for the job, despite having some strengths in data analysis and education.",2
+Not Recommended, due to the lack of essential skills required for the job, resulting in a low final score of 29.05.",2
 Dhaval Patel.pdf,15.57,25.0,100,['data analysis'],"['artificial intelligence', 'llm', 'rlhf']",1,4,28.73,Not Recommended,"Strengths:
 - The candidate has a matched skill in data analysis.
 - The candidate has a perfect education score of 100.
@@ -25,25 +25,25 @@ Weakness:
 - The candidate is missing key skills required for the job, including artificial intelligence, llm, and rlhf, which are crucial for the position.
 
 Recommendation:
-Not Recommended, due to the lack of essential skills required for the job, resulting in a low final score of 28.73.",3
+Not Recommended, due to the low skill match and missing critical skills, despite having a strong educational background.",3
 Adam Clark.pdf,14.01,0.0,100,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,15.6,Not Recommended,"Strengths:
-- High Education Score of 100, indicating a strong educational background.
-- A TF-IDF Similarity score of 14.01, suggesting some level of relevance in the resume content.
+- High education score of 100, indicating a strong academic background.
+- TF-IDF similarity score of 14.01, suggesting some relevance in the resume content.
 
 Weakness:
-- The resume lacks all the required skills for the job, including artificial intelligence, data analysis, llm, and rlhf, resulting in a 0.0 Skill Match score.
+- Lack of required skills, including artificial intelligence, data analysis, llm, and rlhf, with a matched skill count of 0/4.
 
 Recommendation:
-Not Recommended, due to the absence of all the necessary skills for the position, despite a strong educational foundation.",4
+Not Recommended, due to the absence of essential skills for the job, despite a strong educational foundation.",4
 Tomislav Abromovic.pdf,11.14,0.0,100,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,14.46,Not Recommended,"Strengths:
-- High Education Score of 100
-- TF-IDF Similarity score of 11.14
+- High education score of 100, indicating a strong academic background.
+- TF-IDF similarity score of 11.14, suggesting some relevance in the resume content.
 
 Weakness:
-- Lack of required skills, including artificial intelligence, data analysis, llm, and rlhf, with a Matched Skill Count of 0/4
+- Lack of required skills, including artificial intelligence, data analysis, llm, and rlhf, with a matched skill count of 0/4.
 
 Recommendation:
-Not Recommended due to the absence of essential skills required for the job.",5
+Not Recommended, due to the absence of essential skills for the job, despite a strong educational foundation.",5
 Maya Patel.pdf,10.95,0.0,100,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,14.38,Not Recommended,"Strengths:
 - High Education Score of 100, indicating a strong academic background.
 - TF-IDF Similarity score of 10.95, suggesting some relevance in the resume content.
@@ -54,14 +54,14 @@ Weakness:
 Recommendation:
 Not Recommended, due to the absence of essential skills required for the job, despite a strong educational foundation.",6
 Carter Park.pdf,6.04,0.0,100,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,12.42,Not Recommended,"Strengths:
-- High Education Score of 100, indicating a strong academic background.
-- TF-IDF Similarity score of 6.04, suggesting some relevance in the resume content.
+- High education score of 100, indicating a strong academic background.
+- A relatively high TF-IDF similarity score of 6.04, suggesting some relevance in the resume content.
 
 Weakness:
-- Lack of required skills, including artificial intelligence, data analysis, llm, and rlhf, with a Matched Skill Count of 0/4.
+- The resume lacks all the required skills for the job, including artificial intelligence, data analysis, llm, and rlhf, resulting in a 0% skill match.
 
 Recommendation:
-Not Recommended, due to the absence of essential skills required for the job, despite a strong educational foundation.",7
+Not Recommended, due to the absence of all the necessary skills for the position, despite a strong educational foundation.",7
 Diego Prez.pdf,16.71,0.0,0,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,6.68,Not Recommended,"Strengths:
 - The resume has a TF-IDF similarity score of 16.71, indicating some level of relevance to the job description.
 - The final score of 6.68 suggests that the resume has some potential, although it falls short of the required skills.
@@ -81,29 +81,29 @@ Weakness:
 Recommendation:
 Not Recommended, due to the absence of all the necessary skills for the position.",9
 James Miller.pdf,11.44,0.0,0,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,4.58,Not Recommended,"Strengths:
-- The resume has been evaluated with a TF-IDF similarity score of 11.44, indicating some level of relevance to the job description.
-- The final score of 4.58 suggests that the resume has some potential, although it falls short of the required skills.
+- The resume has been evaluated with a TF-IDF Similarity score of 11.44, indicating some level of relevance to the job description.
+- The Final Score of 4.58 suggests that the resume has some potential, despite not meeting the required skills.
 
 Weakness:
-- The resume lacks all the required skills, including artificial intelligence, data analysis, llm, and rlhf, resulting in a skill match of 0.0 and a matched skill count of 0/4.
+- The resume lacks all the required skills, including artificial intelligence, data analysis, llm, and rlhf, resulting in a Skill Match of 0.0 and a Matched Skill Count of 0/4.
 
 Recommendation:
-Not Recommended, due to the absence of all required skills, despite some potential indicated by the TF-IDF similarity score and final score.",10
+Not Recommended, due to the absence of all required skills, despite some potential indicated by the TF-IDF Similarity score and Final Score.",10
 Alonso Romero.pdf,9.92,0.0,0,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,3.97,Not Recommended,"Strengths:
 - The resume has a high TF-IDF similarity score of 9.92, indicating a strong semantic match with the job description.
-- The education score, although 0, does not necessarily indicate a lack of education, but rather a lack of provided information.
+- The education score, although 0, does not necessarily indicate a lack of education, but rather a lack of information in the provided data.
 
 Weakness:
 - The candidate lacks all the required skills for the job, including artificial intelligence, data analysis, llm, and rlhf, resulting in a 0 matched skill count.
 
 Recommendation:
-Not Recommended, due to the absence of all required skills, despite a high TF-IDF similarity score.",11
+The candidate is not recommended for the position due to the absence of all required skills, despite a high TF-IDF similarity score.",11
 Daniela.pdf,7.66,0.0,0,[],"['artificial intelligence', 'data analysis', 'llm', 'rlhf']",0,4,3.06,Not Recommended,"Strengths:
 - The resume has a TF-IDF similarity score of 7.66, indicating some level of relevance to the job description.
-- The final score of 3.06 suggests that the resume has some potential, although it falls short of the required skills.
+- The education score, although 0, suggests that the evaluation system did consider the candidate's educational background.
 
 Weakness:
-- The candidate is missing all the required skills, including artificial intelligence, data analysis, llm, and rlhf, which are crucial for the job.
+- The candidate lacks all the required skills for the job, including artificial intelligence, data analysis, llm, and rlhf, resulting in a 0 matched skill count.
 
 Recommendation:
-Not Recommended, due to the lack of required skills, due to the low skill match score of 0.0 and the absence of relevant skills such as artificial intelligence, data analysis, llm, and rlhf.",12
+Not Recommended, due to the absence of key skills required for the position, despite some similarity in the resume content.",12
