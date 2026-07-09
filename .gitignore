@@ -55,3 +55,15 @@ output/
 # Jupyter
 # ==========================================
 .ipynb_checkpoints/
+
+# Generated outputs
+output/*.csv
+output/*.json
+output/*.html
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+.venv/
