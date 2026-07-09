@@ -56,9 +56,9 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Generated outputs
-output/*.csv
-output/*.json
-output/*.html
+output/*
+!output/.gitkeep
+
 
 # Logs
 logs/
