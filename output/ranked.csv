@@ -1,0 +1,28 @@
+resume_file,tfidf_score,skill_score,education_score,matched_skills,missing_skills,matched_skill_count,required_skill_count,final_score,status,ai_summary,rank
+candidate1.txt,54.81,87.5,100,"['python', 'sql', 'flask', 'docker', 'git', 'pandas', 'rest api']",['machine learning'],7,8,69.14,Recommended,"Strengths:
+- The candidate has a strong foundation in programming skills, including python, sql, flask, and pandas.
+- They also have experience with docker, git, and rest api, which are essential for development and collaboration.
+
+Weakness:
+- The candidate is missing experience in machine learning, which is a required skill for the job.
+
+Recommendation:
+The candidate is still recommended due to their high skill match score (87.5) and education score (100), despite lacking experience in machine learning.",1
+candidate3.txt,44.4,75.0,100,"['python', 'flask', 'docker', 'git', 'machine learning', 'pandas']","['rest api', 'sql']",6,8,59.14,Consider,"Strengths:
+- The candidate has a strong foundation in programming with skills like python, flask, and machine learning.
+- They also have experience with docker, git, and pandas, which are valuable for development and data analysis.
+
+Weakness:
+- The candidate lacks experience in sql and rest api, which are crucial skills for the job as per the job description.
+
+Recommendation:
+Consider the candidate for the position, but provide additional training or support to address the missing skills in sql and rest api to ensure they can perform the job requirements effectively.",2
+candidate2.txt,18.23,37.5,100,"['sql', 'docker', 'git']","['rest api', 'machine learning', 'flask', 'pandas', 'python']",3,8,32.19,Not Recommended,"Strengths:
+- The candidate has a perfect education score, indicating a strong educational background.
+- The candidate possesses some relevant technical skills, including sql, docker, and git.
+
+Weakness:
+- The candidate lacks several key skills required for the job, including rest api, machine learning, flask, pandas, and python, which are crucial for the position.
+
+Recommendation:
+Not Recommended, due to the significant gap in required technical skills, despite a strong educational foundation.",3

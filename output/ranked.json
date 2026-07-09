@@ -1,0 +1,74 @@
+[
+    {
+        "resume_file": "candidate1.txt",
+        "tfidf_score": 54.81,
+        "skill_score": 87.5,
+        "education_score": 100,
+        "matched_skills": [
+            "python",
+            "sql",
+            "flask",
+            "docker",
+            "git",
+            "pandas",
+            "rest api"
+        ],
+        "missing_skills": [
+            "machine learning"
+        ],
+        "matched_skill_count": 7,
+        "required_skill_count": 8,
+        "final_score": 69.14,
+        "status": "Recommended",
+        "ai_summary": "Strengths:\n- The candidate has a strong foundation in programming skills, including python, sql, flask, and pandas.\n- They also have experience with docker, git, and rest api, which are essential for development and collaboration.\n\nWeakness:\n- The candidate is missing experience in machine learning, which is a required skill for the job.\n\nRecommendation:\nThe candidate is still recommended due to their high skill match score (87.5) and education score (100), despite lacking experience in machine learning.",
+        "rank": 1
+    },
+    {
+        "resume_file": "candidate3.txt",
+        "tfidf_score": 44.4,
+        "skill_score": 75.0,
+        "education_score": 100,
+        "matched_skills": [
+            "python",
+            "flask",
+            "docker",
+            "git",
+            "machine learning",
+            "pandas"
+        ],
+        "missing_skills": [
+            "rest api",
+            "sql"
+        ],
+        "matched_skill_count": 6,
+        "required_skill_count": 8,
+        "final_score": 59.14,
+        "status": "Consider",
+        "ai_summary": "Strengths:\n- The candidate has a strong foundation in programming with skills like python, flask, and machine learning.\n- They also have experience with docker, git, and pandas, which are valuable for development and data analysis.\n\nWeakness:\n- The candidate lacks experience in sql and rest api, which are crucial skills for the job as per the job description.\n\nRecommendation:\nConsider the candidate for the position, but provide additional training or support to address the missing skills in sql and rest api to ensure they can perform the job requirements effectively.",
+        "rank": 2
+    },
+    {
+        "resume_file": "candidate2.txt",
+        "tfidf_score": 18.23,
+        "skill_score": 37.5,
+        "education_score": 100,
+        "matched_skills": [
+            "sql",
+            "docker",
+            "git"
+        ],
+        "missing_skills": [
+            "rest api",
+            "machine learning",
+            "flask",
+            "pandas",
+            "python"
+        ],
+        "matched_skill_count": 3,
+        "required_skill_count": 8,
+        "final_score": 32.19,
+        "status": "Not Recommended",
+        "ai_summary": "Strengths:\n- The candidate has a perfect education score, indicating a strong educational background.\n- The candidate possesses some relevant technical skills, including sql, docker, and git.\n\nWeakness:\n- The candidate lacks several key skills required for the job, including rest api, machine learning, flask, pandas, and python, which are crucial for the position.\n\nRecommendation:\nNot Recommended, due to the significant gap in required technical skills, despite a strong educational foundation.",
+        "rank": 3
+    }
+]
