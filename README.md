@@ -189,7 +189,7 @@ resume-screening-agent/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/resume-screening-agent.git
+git clone https://github.com/Saifuddin04/resume-screening-agent.git
 
 cd resume-screening-agent
 ```
@@ -345,19 +345,51 @@ This keeps the ATS scoring deterministic while using AI for explainability.
 
 ### Terminal Output
 
-> *(Add screenshot here)*
+
+![Terminal Output](assets/terminal_output1.png)
+![Terminal Output](assets/terminal_output2.png)
 
 ---
 
 ### HTML Report
 
-> *(Add screenshot here)*
+The application also generates a professional HTML report.
+
+![HTML Report](assets/html_report.png)
 
 ---
 
 ### Ranked Candidates
 
-> *(Add screenshot here)*
+![rankings](assets/rankings.png)
+
+---
+
+### Project Folder
+
+![Project Structure](assets/project_structure.png)
+
+---
+
+### GitHub Repository
+
+![Repository](assets/github_repo.png)
+
+---
+
+### Unit Tests
+
+All automated tests pass successfully.
+
+![Tests](assets/tests.png)
+
+---
+
+## Known Limitations
+
+- Uses TF-IDF instead of transformer embeddings.
+- Skill matching is keyword-based.
+- Job descriptions are parsed using rule-based extraction, so descriptive company terms may occasionally be treated as required skills.
 
 ---
 
