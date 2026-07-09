@@ -1,6 +1,6 @@
 # 🤖 AI Resume Screening Agent
 
-An AI-powered Applicant Tracking System (ATS) that automatically screens, scores, and ranks multiple resumes against a Job Description using Natural Language Processing (NLP), skill matching, weighted scoring, and Large Language Model (LLM) reasoning.
+An AI-assisted Resume Screening and Ranking System that automatically screens, scores, and ranks multiple resumes against a Job Description using Natural Language Processing (NLP), skill matching, weighted scoring, and Large Language Model (LLM) reasoning.
 
 Built for the **Rooman Technologies – Junior AI Research Associate AI Agent Challenge**.
 
